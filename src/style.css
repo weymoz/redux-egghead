@@ -1,0 +1,19 @@
+body {
+    background-color: khaki;
+}
+
+input {
+    border: 1px solid rgba(0,0,0,0.5);
+    padding: 1em;
+    display: block;
+    margin: 6em auto;
+    min-width: 600px;;
+}
+
+button {
+    display: block;
+    border: 1px solid rgba(0,0,0,0.5);
+    padding: 1em;
+    margin: 6em auto;
+    min-width: 600px;;
+}
